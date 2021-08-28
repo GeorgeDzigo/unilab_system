@@ -1,0 +1,36 @@
+/* .item_list{
+    background-color: #c1c1d4;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    padding: 0px;
+    border-radius: 20px;
+    font-size: 14px;
+}.item{
+    background-color: #c1c1d4;
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    padding: 0px;
+    border-radius: 20px;
+    font-size: 14px;
+}
+.item_name{
+    position: relative;
+    left: 5%;
+}.date{
+    position: relative;
+    left: 10%;
+}.time{
+    position: relative;
+    left: 20%;
+}.type{
+    position: relative;
+    left: 30%;
+}.exporter{
+    position: relative;
+    left: 50%;
+}*/
+p.size{ 
+    font-size: 12px;
+}
